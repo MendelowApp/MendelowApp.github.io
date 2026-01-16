@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: BlogTemplate
-subtitle: 'BlogTemplate Subtitle'
-description: 'BlogTemplate Description'
+title: Mendelow
+subtitle: '让重要朋友环绕在您的周围，人脉管理 APP'
+description: '让重要朋友环绕在您的周围，人脉管理 APP'
 keywords:
-author: BlogTemplate Authors
+author: Chatopera
 # Lang, https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes, zh-cn for Simplified Chinese
-language: en
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://hailiang-wang.github.io/blogtemplate/
+url: https://MendelowApp.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -138,5 +138,7 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-  icon: /BlogTemplate/images/favicon-32x32-next.png
+  icon: /images/favicon-32x32-next.png
   autodiscovery: true
+
+
