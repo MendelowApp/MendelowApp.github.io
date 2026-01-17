@@ -1,0 +1,10 @@
+services:
+  mendelow-homepage:
+    image: chatopera/mendelow:homepage
+    restart: always
+    environment:
+      - DEBUG=${DEBUG:-}
+    volumes:
+      - ./data:/data
+    ports:
+      - "${MENDELOW_HOMEPAGE_PORT:-9329}:80"

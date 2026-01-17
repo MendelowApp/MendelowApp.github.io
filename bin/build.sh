@@ -43,4 +43,17 @@ done
 
 # build
 cd $baseDir/..
+rm -rf _public
 npm run build
+
+if [ ! $? -eq 0 ]; then
+    echo "Build error"
+    exit 2
+fi
+
+if [ ! -f $baseDir/../_public/index.html ]; then
+    echo "index.html not found"
+    exit 1
+fi
+
+echo "Build done."
