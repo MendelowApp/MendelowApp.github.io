@@ -26,9 +26,8 @@ fi
 which node
 echo "WARN node v22 is required."
 
-
+# recreate _build
 cd $baseDir/..
-
 if [ -d _build ]; then
     rm -rf _build
 fi
@@ -56,12 +55,14 @@ cd $baseDir/..
 npm install
 
 # fix hexo word counter download error for index.node
+# first install cargo, `sudo apt install cargo`
 rm -rf node_modules/hexo-word-counter/index.node
 if [ ! -e node_modules/hexo-word-counter/index.node ]; then
     cd $baseDir/../deployment/fixtures/hexo-word-counter
     tar czfp - .|(cd $baseDir/../node_modules/hexo-word-counter;tar xzfp -)
     cd $baseDir/../node_modules/hexo-word-counter
     mv linux__x64.node index.node
+    chmod +x index.node
 fi
 
 # build
@@ -78,10 +79,5 @@ if [ ! -f $baseDir/../_public/index.html ]; then
     echo "index.html not found"
     exit 1
 fi
-
-# copy assets
-cd $baseDir/..
-
-
 
 echo "Build done."
