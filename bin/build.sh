@@ -55,7 +55,6 @@ done
 cd $baseDir/..
 rm -rf _public
 npm install
-chmod +x 
 node node_modules/hexo-cli/bin/hexo generate
 
 if [ ! $? -eq 0 ]; then
