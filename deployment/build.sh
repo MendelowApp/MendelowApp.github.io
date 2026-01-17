@@ -31,5 +31,6 @@ cd $baseDir/..
 docker build --build-arg VCS_REF=`git rev-parse --short HEAD` \
     --no-cache=true \
     --force-rm=true \
+    -f deployment/Dockerfile \
     -t chatopera/mendelow:homepage .
 
