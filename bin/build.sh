@@ -28,6 +28,7 @@ echo "WARN node v22 is required."
 
 # recreate _build
 cd $baseDir/..
+rm db.json
 if [ -d _build ]; then
     rm -rf _build
 fi
