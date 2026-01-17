@@ -51,9 +51,8 @@ for x in `ls`; do
     sed -i "s/\](..\/media/](media/g" $x
 done
 
-# build
+# install deps
 cd $baseDir/..
-rm -rf _public
 npm install
 
 # fix hexo word counter download error for index.node
@@ -62,6 +61,9 @@ if [ ! -e node_modules/hexo-word-counter/index.node ]; then
     tar czfp - .|(cd $baseDir/../node_modules/hexo-word-counter;tar xzfp -)
 fi
 
+# build
+cd $baseDir/..
+rm -rf _public
 node node_modules/hexo-cli/bin/hexo generate
 
 if [ ! $? -eq 0 ]; then
