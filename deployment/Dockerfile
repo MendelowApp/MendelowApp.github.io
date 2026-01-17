@@ -1,5 +1,5 @@
 FROM nginx:20240618
-MAINTAINER Hai Liang Wang <hain@chatopera.com>
+LABEL org.opencontainers.image.authors="hai@chatopera.com"
 
 ARG VCS_REF
 
