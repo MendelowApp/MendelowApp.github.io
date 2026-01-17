@@ -56,6 +56,7 @@ cd $baseDir/..
 npm install
 
 # fix hexo word counter download error for index.node
+rm -rf node_modules/hexo-word-counter
 if [ ! -e node_modules/hexo-word-counter/index.node ]; then
     cd $baseDir/../deployment/fixtures/hexo-word-counter
     tar czfp - .|(cd $baseDir/../node_modules/hexo-word-counter;tar xzfp -)
