@@ -55,7 +55,8 @@ done
 cd $baseDir/..
 rm -rf _public
 npm install
-node_modules/hexo-cli/bin/hexo generate
+chmod +x 
+node node_modules/hexo-cli/bin/hexo generate
 
 if [ ! $? -eq 0 ]; then
     echo "Build error"
