@@ -24,7 +24,7 @@ bash ./downloadDockerImagesFromInternalHost.sh nginx.20240618.docker.tgz
 
 ## build www public
 cd $baseDir/..
-./bin/build.sh
+bash ./bin/build.sh
 
 ## build image
 cd $baseDir/..
