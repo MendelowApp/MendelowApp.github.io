@@ -17,6 +17,16 @@ export DATE_WITH_TIME=`date "+%Y%m%d-%H%M%S"` #add %3N as we want millisecond to
 # main 
 [ -z "${BASH_SOURCE[0]}" -o "${BASH_SOURCE[0]}" = "$0" ] || return
 
+# check node
+node --version
+if [ ! $? -eq 0 ]; then
+    echo "Ndoe not found"
+fi
+
+which node
+echo "WARN node v22 is required."
+
+
 cd $baseDir/..
 
 if [ -d _build ]; then
@@ -44,7 +54,8 @@ done
 # build
 cd $baseDir/..
 rm -rf _public
-npm run build
+npm install
+node_modules/hexo-cli/bin/hexo generate
 
 if [ ! $? -eq 0 ]; then
     echo "Build error"
