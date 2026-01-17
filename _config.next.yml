@@ -44,16 +44,15 @@ scheme: Mist
 # Dark Mode
 darkmode: false
 
-
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  small: /media/favicon-16x16.png
+  medium: /media/favicon-32x32.png
+  apple_touch_icon: /media/apple-touch-icon.png
+  safari_pinned_tab: /media/logo.svg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
@@ -121,7 +120,7 @@ sidebar:
   #  - always  expand for all pages automatically.
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  totally remove sidebar including sidebar toggle.
-  display: post
+  display: always
 
   # Sidebar padding in pixels.
   padding: 18
@@ -145,8 +144,8 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/hailiang-wang || fab fa-github
-  #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  GitHub: https://github.com/MendelowApp || fab fa-github
+  E-Mail: mailto:info@chatopera.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
@@ -158,7 +157,7 @@ social:
 
 social_icons:
   enable: true
-  icons_only: true
+  icons_only: false
   transition: false
 
 # Blog rolls
@@ -169,7 +168,10 @@ links_settings:
   layout: block
 
 links:
-  #Title: https://example.com
+  客户端 Web: https://mendelow-app.chatopera.com/
+  客户端 Android: http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk
+  客户端 微信公众号: https://mendelow.chatopera.com/media/wechat_gzh_mendelow.png
+  反馈建议: https://gitee.com/MendelowApp/feedback/issues/new
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).

@@ -68,4 +68,9 @@ if [ ! -f $baseDir/../_public/index.html ]; then
     exit 1
 fi
 
+# copy assets
+cd $baseDir/..
+
+
+
 echo "Build done."
