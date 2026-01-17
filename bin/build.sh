@@ -59,6 +59,8 @@ npm install
 if [ ! -e node_modules/hexo-word-counter/index.node ]; then
     cd $baseDir/../deployment/fixtures/hexo-word-counter
     tar czfp - .|(cd $baseDir/../node_modules/hexo-word-counter;tar xzfp -)
+    cd $baseDir/../node_modules/hexo-word-counter
+    mv linux__x64.node index.node
 fi
 
 # build
