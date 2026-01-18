@@ -5,7 +5,7 @@ https://mendelowapp.github.io/tags/index.html
 https://mendelowapp.github.io/categories/index.html
 https://mendelowapp.github.io/
 https://mendelowapp.github.io/tags/Open/
-https://mendelowapp.github.io/tags/Diary/
 https://mendelowapp.github.io/tags/Tech/
+https://mendelowapp.github.io/tags/Diary/
 https://mendelowapp.github.io/categories/notes/
 
