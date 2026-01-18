@@ -16,6 +16,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '22.x'
+      - run: git config --global --add safe.directory /github/workspace
       - run: npm install
       - run: chmod +x scripts/*.sh && ./scripts/build.sh
       - uses: peaceiris/actions-gh-pages@v3
