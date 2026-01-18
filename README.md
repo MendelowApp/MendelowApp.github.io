@@ -27,7 +27,7 @@ bin/create-post.sh your post title
 ## Publish
 
 ```
-bin/commit.sh
+bin/commit.sh # check build status, https://github.com/MendelowApp/MendelowApp.github.io
 ```
 
 Published with 
