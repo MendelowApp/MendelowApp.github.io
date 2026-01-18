@@ -57,7 +57,7 @@ rm -rf _public
 node node_modules/hexo-cli/bin/hexo generate
 
 cd $baseDir/..
-mkdir -p _public/.github/workflows && cp .github/workflows/gitee.yml _public/.github/workflows
+mkdir -p _public/.github/workflows && cp .github/workflows/mirror.yml _public/.github/workflows
 
 if [ ! $? -eq 0 ]; then
     echo "Build error"
