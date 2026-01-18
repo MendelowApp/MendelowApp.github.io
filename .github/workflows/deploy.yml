@@ -18,7 +18,7 @@ jobs:
           node-version: '22.x'
       - run: npm install
       - run: chmod +x scripts/*.sh && ./scripts/build.sh
-      - run: mkdir -p _public/.github/workflows && cp .github/workflows/gitee.yml _public/.github/workflows
+      - run: 
 
       - uses: peaceiris/actions-gh-pages@v3
         if: github.event_name != 'pull_request'
