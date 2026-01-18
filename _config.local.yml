@@ -1,1 +1,2 @@
+# config used as multiconfig, used in bin/create-post.sh
 source_dir: .
