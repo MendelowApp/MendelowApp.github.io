@@ -2,25 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mendelowapp.github.io/2021/05/11/hello/</loc>
-    
-    <lastmod>2026-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mendelowapp.github.io/2021/05/11/foobar/</loc>
-    
-    <lastmod>2026-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mendelowapp.github.io/2022/05/11/foo2-foo1/</loc>
+    <loc>https://mendelowapp.github.io/2026/01/18/why-mendelow/</loc>
     
     <lastmod>2026-01-18</lastmod>
     
@@ -56,33 +38,19 @@
 
   
   <url>
-    <loc>https://mendelowapp.github.io/tags/Open/</loc>
+    <loc>https://mendelowapp.github.io/tags/Product/</loc>
     <lastmod>2026-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mendelowapp.github.io/tags/Tech/</loc>
-    <lastmod>2026-01-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mendelowapp.github.io/tags/Diary/</loc>
+    <loc>https://mendelowapp.github.io/tags/Productivity/</loc>
     <lastmod>2026-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>https://mendelowapp.github.io/categories/notes/</loc>
-    <lastmod>2026-01-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
