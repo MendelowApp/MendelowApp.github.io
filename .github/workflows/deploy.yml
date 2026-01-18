@@ -25,10 +25,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_public
           publish_branch: gh-pages
-
-      - uses: wangchucheng/git-repo-sync@v0.1.0
-        with:
-          target-url: https://gitee.com/MendelowApp/MendelowApp.github.io.git
-          target-username: ${{ secrets.GITEE_USERNAME }}
-          # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ACCESS_TOKEN }}
-          target-token: ${{ secrets.GITEE_TOKEN }}
