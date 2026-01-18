@@ -24,3 +24,15 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_public
           publish_branch: gh-pages
+      - run: |
+          mirror() {
+            repo_org=$1
+            repo_name=$2
+            git clone "https://github.com/${repo_org}/${repo_name}.git"
+            cd $repo_name
+            git remote add gitee "https://${{ secrets.GITEE_USERNAME }}:${{ secrets.GITEE_TOKEN }}@gitee.com/${repo_org}/${repo_name}.git"
+            git remote set-head origin -d
+            git push gitee --prune +refs/remotes/origin/*:refs/heads/* +refs/tags/*:refs/tags/*
+            cd ..
+          }
+          mirror MendelowApp MendelowApp.github.io
