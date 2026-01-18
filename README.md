@@ -6,13 +6,13 @@
 * Install dev
 
 ```
-bin/install.sh
+scripts/install.sh
 ```
 
 * Run preview & development
 
 ```
-bin/dev.sh
+scripts/dev.sh
 ```
 
 ## Posts
@@ -20,14 +20,14 @@ bin/dev.sh
 * Create new post
 
 ```
-bin/create-post.sh your post title
+scripts/create-post.sh your post title
 ```
 
 
 ## Publish
 
 ```
-bin/commit.sh
+scripts/commit.sh
 ```
 
 Published with 
