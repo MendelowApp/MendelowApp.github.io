@@ -22,6 +22,6 @@ if [ ! $? -eq 0 ]; then
     exit 1
 fi
 
-git push origin master
+# git push origin master
 git push github master
 echo "Updated contents"

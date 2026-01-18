@@ -16,7 +16,6 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '22.x'
-      - run: git config --global --add safe.directory /github/workspace
       - run: npm install
       - run: chmod +x scripts/*.sh && ./scripts/build.sh
 
@@ -30,7 +29,6 @@ jobs:
       - uses: wangchucheng/git-repo-sync@v0.1.0
         with:
           target-url: https://gitee.com/MendelowApp/MendelowApp.github.io.git
-          # Such as wangchucheng
           target-username: ${{ secrets.GITEE_USERNAME }}
           # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ACCESS_TOKEN }}
           target-token: ${{ secrets.GITEE_TOKEN }}
