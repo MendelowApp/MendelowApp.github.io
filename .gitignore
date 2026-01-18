@@ -11,3 +11,4 @@ _build
 package-lock.json
 yarn.lock
 .obsidian
+_multiconfig.yml

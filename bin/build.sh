@@ -29,18 +29,14 @@ echo "WARN node v22 is required."
 # recreate _build
 cd $baseDir/..
 rm db.json
-if [ -d _build ]; then
-    rm -rf _build
-fi
+rm -rf _build
 
 mkdir _build
-
 cp -rf data _build/_data
-cp -rf posts _build/_posts
+cp -rf _posts _build/_posts
 cp -rf categories _build/categories
 cp -rf media _build/media
 cp -rf tags _build/tags
-
 
 # fix attachement paths
 cd $baseDir/..
