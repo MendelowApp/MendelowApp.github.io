@@ -10,7 +10,7 @@ export PYTHONNOUSERSITE=1
 export PYTHONUNBUFFERED=1
 #export PATH=/opt/miniconda3/envs/venv-py3/bin:$PATH
 export TS=$(date +%Y%m%d%H%M%S)
-export DATE=`date "+%Y_%m_%d"`
+export DATE=`date "+%Y_%m_%d_%H%M%S"`
 export DATE_WITH_TIME=`date "+%Y%m%d-%H%M%S"` #add %3N as we want millisecond too
 
 # functions
@@ -20,3 +20,4 @@ export DATE_WITH_TIME=`date "+%Y%m%d-%H%M%S"` #add %3N as we want millisecond to
 
 cd /d/backups/marketing
 createXmindPyramidPrincipleDoc.sh ${DATE}_mendelow_post.xmind
+createPowPointSample.sh ${DATE}_mendelow_post.pptx

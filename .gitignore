@@ -44,3 +44,5 @@ db.json
 dist/
 .*~
 *~
+
+_multiconfig.yml
