@@ -1,6 +1,6 @@
 #! /bin/bash 
 ###########################################
-#
+# 
 ###########################################
 
 # constants
@@ -20,6 +20,7 @@ export DATE_WITH_TIME=`date "+%Y%m%d-%H%M%S"` #add %3N as we want millisecond to
 
 cd $baseDir
 
+# 读取 token
 if [ ! -e localrc ]; then
     echo "File not found, localrc"
     exit 1
@@ -27,6 +28,10 @@ fi
 
 source localrc
 
+######################################################
+# 编辑 baidu_urls.txt
+# 只保留要增加的 10 个 URL 网址
+######################################################
 pwd
 set -x
 curl -H 'Content-Type:text/plain' --data-binary @baidu_urls.txt "http://data.zz.baidu.com/urls?site=https://mendelow.chatopera.com&token=${BAIDU_TOKEN}"

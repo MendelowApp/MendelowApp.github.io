@@ -58,6 +58,7 @@ node node_modules/hexo-cli/bin/hexo generate
 
 cd $baseDir/..
 cp assets/seo/baidu_verify_codeva-qzNr0vrAzq.html _public/
+cp assets/seo/robots.txt _public/
 
 if [ ! $? -eq 0 ]; then
     echo "Build error"
