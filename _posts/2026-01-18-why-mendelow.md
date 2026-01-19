@@ -77,6 +77,6 @@ Mendelow APP 目前有网页版、安卓 APP 和微信公众号。
 
 * 网页版可以在电脑上使用： https://mendelow-app.chatopera.com/
 * 安卓 APP 目前通过手机浏览器下载 APK 安装：[链接](http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk)
-* 反馈：欢迎通过 [链接](https://gitee.com/MendelowApp/feedback/issues/new) 提供您的宝贵建议
+* 反馈：欢迎通过 [链接](https://www.chatopera.com/files/miscs/wx_chatoperacs_humanagent.png) 提供您的宝贵建议
 
 ![alt text](../media/assets/1768729818987.png)
