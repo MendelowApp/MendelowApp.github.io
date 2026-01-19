@@ -56,6 +56,9 @@ cd $baseDir/..
 rm -rf _public
 node node_modules/hexo-cli/bin/hexo generate
 
+cd $baseDir/..
+cp assets/seo/baidu_verify_codeva-qzNr0vrAzq.html _public/
+
 if [ ! $? -eq 0 ]; then
     echo "Build error"
     exit 2
