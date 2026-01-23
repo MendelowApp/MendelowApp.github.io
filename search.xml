@@ -1,6 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>企业架构 － 涉众管理（Stakeholder Management）</title>
+    <url>/2026/01/23/mendelow-matrix/</url>
+    <content><![CDATA[<h1 id="涉众管理"><a href="#涉众管理" class="headerlink" title="涉众管理"></a>涉众管理</h1><p>复杂系统的复杂不仅在与架构开发流程本身，还与是否获得大范围涉众的一致同意有关，涉众管理的好不能肯定企业架构一定做得好，但是涉众管理做得不好，企业架构肯定做不好。对于管理类型项目来说，客户的满意度有时就能体现出我们和客户一开始交流得够不够。在 A 阶段（架构愿景）中我们需要进行涉众管理，交付类似下图的 Stakeholder Map Matrix。本篇介绍一下涉众管理。</p>
+<span id="more"></span>
+
+<p><img src="/media/assets/1769147044643.png" alt="alt text"></p>
+<h1 id="好处"><a href="#好处" class="headerlink" title="好处"></a>好处</h1><ol>
+<li><p>标识重要的涉众，能在早期更好的框定架构需求和范围</p>
+</li>
+<li><p>通过重要涉众的支持，可以获取更多的资源</p>
+</li>
+<li><p>早期频繁的和涉众沟通，可以确保更完整的理解架构流程</p>
+</li>
+</ol>
+<h1 id="管理流程"><a href="#管理流程" class="headerlink" title="管理流程"></a>管理流程</h1><h2 id="获取涉众列表"><a href="#获取涉众列表" class="headerlink" title="获取涉众列表"></a>获取涉众列表</h2><ol>
+<li><p>谁从项目中收益或遭受损失?</p>
+</li>
+<li><p>谁控制项目?</p>
+</li>
+<li><p>谁来设计系统?</p>
+</li>
+<li><p>谁作出决策?</p>
+</li>
+<li><p>谁获得IT系统并决定是否购买?</p>
+</li>
+<li><p>谁控制资源?</p>
+</li>
+<li><p>谁有项目要求的专业技能?</p>
+</li>
+<li><p>谁对项目有影响力?</p>
+</li>
+<li><p>问发起人或客户</p>
+</li>
+<li><p>检查组织机构</p>
+</li>
+<li><p>比较类似项目组</p>
+</li>
+</ol>
+<p><img src="/media/assets/1769147102954.jpg" alt="alt text"></p>
+<h2 id="认识涉众的态度"><a href="#认识涉众的态度" class="headerlink" title="认识涉众的态度"></a>认识涉众的态度</h2><ol>
+<li><p>这个人是否准备好了从当前现状改变到目标架构上？如故事，准备怎么改变？</p>
+</li>
+<li><p>这个人是否有能力作为一个企业架构发动人和推动者？如果是，他有什么能力？</p>
+</li>
+<li><p>如何参与到企业架构活动中？只是感兴趣了解而已，还是需要详细了解？</p>
+</li>
+<li><p>对企业架构的开发是否有合约性的承诺？</p>
+</li>
+</ol>
+<p><img src="/media/assets/1769146818930.png" alt="alt text"></p>
+<h2 id="知道关键涉众-Power-Interest"><a href="#知道关键涉众-Power-Interest" class="headerlink" title="知道关键涉众: Power&#x2F;Interest"></a>知道关键涉众: Power&#x2F;Interest</h2><ul>
+<li><p>A 密切沟通</p>
+</li>
+<li><p>B 使他（她）满意</p>
+</li>
+<li><p>C 让他（她）知道</p>
+</li>
+<li><p>D 与他（她）协作</p>
+</li>
+</ul>
+<p><img src="/media/assets/1769147119483.jpg" alt="alt text"></p>
+<h2 id="裁剪涉众相关交付视图（ViewPoint）"><a href="#裁剪涉众相关交付视图（ViewPoint）" class="headerlink" title="裁剪涉众相关交付视图（ViewPoint）"></a>裁剪涉众相关交付视图（ViewPoint）</h2><p><img src="/media/assets/1769147276355.png" alt="alt text"></p>
+<p>不同项目中自行进行裁剪，在TOGAF文档中举了一个裁剪示例：</p>
+<p><img src="/media/assets/1769147179660.jpg" alt="alt text"></p>
+<h2 id="从视图的目的和抽象级别来对ViewPoint进行了如下分类"><a href="#从视图的目的和抽象级别来对ViewPoint进行了如下分类" class="headerlink" title="从视图的目的和抽象级别来对ViewPoint进行了如下分类"></a>从视图的目的和抽象级别来对ViewPoint进行了如下分类</h2><p><img src="/media/assets/1769147221297.jpg" alt="alt text"></p>
+<p><img src="/media/assets/1769147241673.png" alt="alt text"></p>
+<p><img src="/media/assets/1769147251078.png" alt="alt text"></p>
+]]></content>
+      <tags>
+        <tag>ACCA</tag>
+        <tag>Management</tag>
+        <tag>Forward</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何更有效的进行社交，个人联系人管理，Mendelow 来了</title>
     <url>/2026/01/18/why-mendelow/</url>
     <content><![CDATA[<h1 id="我们需要更好的维护朋友、伙伴关系"><a href="#我们需要更好的维护朋友、伙伴关系" class="headerlink" title="我们需要更好的维护朋友、伙伴关系"></a>我们需要更好的维护朋友、伙伴关系</h1><p>随着年龄的增长，人际关系变得越来越重要，空闲的时候，打开通信录，我该联系谁？有多少曾经的伙伴很久没有联系了，有多少朋友没有近期的消息了？</p>
