@@ -76,7 +76,7 @@ post_link: https://mp.weixin.qq.com/s/sXrmffdCOAq8aHP84IzD8g
 
 * D 与他（她）协作
 
-![alt text](../media/assets/1769147119483.jpg)
+![alt text](../media/assets/1769147629571.png)
 
 
 ## 裁剪涉众相关交付视图（ViewPoint）
