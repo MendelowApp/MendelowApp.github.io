@@ -18,5 +18,7 @@ export DATE_WITH_TIME=`date "+%Y%m%d-%H%M%S"` #add %3N as we want millisecond to
 # main 
 [ -z "${BASH_SOURCE[0]}" -o "${BASH_SOURCE[0]}" = "$0" ] || return
 
+echo "Set front matter https://theme-next.js.org/docs/advanced-settings/front-matter"
+
 cd $baseDir/..
 node node_modules/hexo/bin/hexo --config _config.yml,_config.local.yml new post "$*"

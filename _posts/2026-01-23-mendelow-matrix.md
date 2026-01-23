@@ -7,6 +7,7 @@ tags:
 date: 2026-01-23 13:30:34
 author: 采购观察
 post_link: https://mp.weixin.qq.com/s/sXrmffdCOAq8aHP84IzD8g
+copyright_reprint: true
 ---
 
 # 涉众管理
