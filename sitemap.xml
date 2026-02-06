@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mendelow.chatopera.com/2026/02/06/how-to-use/</loc>
+    
+    <lastmod>2026-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mendelow.chatopera.com/2026/01/23/mendelow-matrix/</loc>
     
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-02-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://mendelow.chatopera.com/2026/01/18/why-mendelow/</loc>
     
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-02-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://mendelow.chatopera.com/tags/index.html</loc>
     
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-02-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +40,7 @@
   <url>
     <loc>https://mendelow.chatopera.com/categories/index.html</loc>
     
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-02-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,43 +49,50 @@
 
   <url>
     <loc>https://mendelow.chatopera.com/</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-02-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://mendelow.chatopera.com/tags/ACCA/</loc>
-    <lastmod>2026-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mendelow.chatopera.com/tags/Management/</loc>
-    <lastmod>2026-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mendelow.chatopera.com/tags/Forward/</loc>
-    <lastmod>2026-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mendelow.chatopera.com/tags/Product/</loc>
-    <lastmod>2026-01-23</lastmod>
+    <loc>https://mendelow.chatopera.com/tags/Howto/</loc>
+    <lastmod>2026-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mendelow.chatopera.com/tags/Productivity/</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mendelow.chatopera.com/tags/Product/</loc>
+    <lastmod>2026-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mendelow.chatopera.com/tags/ACCA/</loc>
+    <lastmod>2026-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mendelow.chatopera.com/tags/Management/</loc>
+    <lastmod>2026-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mendelow.chatopera.com/tags/Forward/</loc>
+    <lastmod>2026-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
