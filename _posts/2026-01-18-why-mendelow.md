@@ -1,11 +1,10 @@
 ---
 title: 如何更有效的进行社交，个人联系人管理，Mendelow 来了
 tags:
-  - Product
+  - Howto
   - Productivity
 date: 2026-01-18 15:53:06
 author: hailiang-wang
-sticky: 99999
 ---
 
 # 我们需要更好的维护朋友、伙伴关系

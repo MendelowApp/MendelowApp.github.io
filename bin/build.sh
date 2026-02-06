@@ -44,7 +44,7 @@ cd _build/_posts
 
 for x in `ls`; do
     echo "[fix-media-path] Processing" $x
-    sed -i "s/\](..\/media/](media/g" $x
+    sed -i "s/\](..\/media/](\/media/g" $x
 done
 
 # install deps
