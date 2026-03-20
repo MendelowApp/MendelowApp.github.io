@@ -12,10 +12,15 @@ date: 2026-02-28 16:56:15
 
 本方法适用于**小米、Vivo、Oppo、荣耀**手机的用户：
 
-进入手机内置的应用商店，搜索**Mendelow**，然后可以通过商店下载安装。
+进入手机内置的 ==应用商店==，搜索**Mendelow**，然后可以通过商店下载安装。
+
+快捷方式：
+
+* [小米应用商店](http://app.xiaomi.com/detail/1733815)
+
 
 # APK 下载链接
 
-其它安卓手机，用户可以通过下面链接进行 APK 下载安装。
+兼容各种安卓手机客户端，用户通过下面链接进行 APK 下载，然后打开 APK，按照提示安装。
 
 [http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk](http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk)
