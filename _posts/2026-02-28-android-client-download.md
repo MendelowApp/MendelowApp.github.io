@@ -8,6 +8,12 @@ date: 2026-02-28 16:56:15
 
 下载安装 Mendelow APP 安卓客户端，可以通过下面两个途径。
 
+# APK 下载链接
+
+兼容各种安卓手机客户端，用户通过下面链接进行 APK 下载，然后打开 APK，按照提示安装。
+
+[http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk](http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk)
+
 # 应用商店
 
 本方法适用于**小米、Vivo、Oppo、荣耀**手机的用户：
@@ -19,8 +25,3 @@ date: 2026-02-28 16:56:15
 * [小米应用商店](http://app.xiaomi.com/detail/1733815)
 * [Vivo 应用商店](https://h5.appstore.vivo.com.cn/#/details?search_word=mendelow&search_action=4&app_id=4516595&app_pos=1&source=5&appId=4516595&frompage=searchResultApp&listpos=1)
 
-# APK 下载链接
-
-兼容各种安卓手机客户端，用户通过下面链接进行 APK 下载，然后打开 APK，按照提示安装。
-
-[http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk](http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk)
