@@ -10,7 +10,7 @@ date: 2026-02-28 16:56:15
 
 # APK 下载链接
 
-兼容各种安卓手机客户端，用户通过下面链接进行 APK 下载，然后打开 APK，按照提示安装。
+兼容各种安卓手机客户端：通过手机浏览器打开[下方链接](http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk)；完成后，打开下载的 APK 文件，按照提示安装。
 
 [http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk](http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk)
 
