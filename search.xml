@@ -156,6 +156,27 @@
       </tags>
   </entry>
   <entry>
+    <title>Mendelow APP Android 安卓客户端安装</title>
+    <url>/2026/02/28/android-client-download/</url>
+    <content><![CDATA[<p>下载安装 Mendelow APP 安卓客户端，可以通过下面两个途径。</p>
+<h1 id="应用商店"><a class="markdownIt-Anchor" href="#应用商店"></a> 应用商店</h1>
+<p>本方法适用于<strong>小米、Vivo、Oppo、荣耀</strong>手机的用户：</p>
+<p>进入手机内置的<mark>应用商店</mark>，搜索<strong>Mendelow</strong>，然后可以通过商店下载安装。</p>
+<p>快捷方式：</p>
+<ul>
+<li><a href="http://app.xiaomi.com/detail/1733815">小米应用商店</a></li>
+<li><a href="https://h5.appstore.vivo.com.cn/#/details?search_word=mendelow&amp;search_action=4&amp;app_id=4516595&amp;app_pos=1&amp;source=5&amp;appId=4516595&amp;frompage=searchResultApp&amp;listpos=1">Vivo 应用商店</a></li>
+</ul>
+<h1 id="apk-下载链接"><a class="markdownIt-Anchor" href="#apk-下载链接"></a> APK 下载链接</h1>
+<p>兼容各种安卓手机客户端，用户通过下面链接进行 APK 下载，然后打开 APK，按照提示安装。</p>
+<p><a href="http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk">http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk</a></p>
+]]></content>
+      <tags>
+        <tag>Product</tag>
+        <tag>Install</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何使用 Mendelow 进行联系人管理</title>
     <url>/2026/02/06/how-to-use/</url>
     <content><![CDATA[<h1 id="第一次了解-mendelow-方法论"><a class="markdownIt-Anchor" href="#第一次了解-mendelow-方法论"></a> 第一次了解 Mendelow 方法论</h1>
@@ -234,27 +255,6 @@
       <tags>
         <tag>Productivity</tag>
         <tag>Product</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Mendelow APP Android 安卓客户端安装</title>
-    <url>/2026/02/28/android-client-download/</url>
-    <content><![CDATA[<p>下载安装 Mendelow APP 安卓客户端，可以通过下面两个途径。</p>
-<h1 id="应用商店"><a class="markdownIt-Anchor" href="#应用商店"></a> 应用商店</h1>
-<p>本方法适用于<strong>小米、Vivo、Oppo、荣耀</strong>手机的用户：</p>
-<p>进入手机内置的 <mark>应用商店</mark>，搜索<strong>Mendelow</strong>，然后可以通过商店下载安装。</p>
-<p>快捷方式：</p>
-<ul>
-<li><a href="http://app.xiaomi.com/detail/1733815">小米应用商店</a></li>
-<li><a href="https://h5.appstore.vivo.com.cn/#/details?search_word=mendelow&amp;search_action=4&amp;app_id=4516595&amp;app_pos=1&amp;source=5&amp;appId=4516595&amp;frompage=searchResultApp&amp;listpos=1">Vivo 应用商店</a></li>
-</ul>
-<h1 id="apk-下载链接"><a class="markdownIt-Anchor" href="#apk-下载链接"></a> APK 下载链接</h1>
-<p>兼容各种安卓手机客户端，用户通过下面链接进行 APK 下载，然后打开 APK，按照提示安装。</p>
-<p><a href="http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk">http://www.chatopera.com/files/miscs/mendelow/prod/mendelow-release-latest.apk</a></p>
-]]></content>
-      <tags>
-        <tag>Product</tag>
-        <tag>Install</tag>
       </tags>
   </entry>
 </search>
