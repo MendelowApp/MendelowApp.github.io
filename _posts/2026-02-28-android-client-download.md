@@ -17,7 +17,7 @@ date: 2026-02-28 16:56:15
 快捷方式：
 
 * [小米应用商店](http://app.xiaomi.com/detail/1733815)
-
+* [Vivo 应用商店](https://h5.appstore.vivo.com.cn/#/details?search_word=mendelow&search_action=4&app_id=4516595&app_pos=1&source=5&appId=4516595&frompage=searchResultApp&listpos=1)
 
 # APK 下载链接
 
